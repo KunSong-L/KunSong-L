@@ -1,7 +1,8 @@
 ### Hi I'm Kun Song 👋
 
-I am a master's student now in SJTU!
-I'm now working on Robot Exploration and Navigation,I'm also interesting in Computer Vision, Robot Control and Robot Perception.
+I am a master's student now in **SJTU** 🐸!
+
+I'm now working on **Robot Exploration and Navigation**,I'm also interesting in Computer Vision, Robot Control and Robot Perception.
 
 <!--
 **KunSong-L/KunSong-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
