@@ -1,11 +1,11 @@
 ### Hi I'm Kun Song 👋
 
+I am a master's student now in SJTU!
+
 <!--
 **KunSong-L/KunSong-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 -->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
@@ -18,11 +18,7 @@ Here are some ideas to get you started:
 ## ⚡ Tec Stacks
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![Go](https://img.shields.io/badge/-go-%23E44D27?style=flat-square&logo=go&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
@@ -30,7 +26,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KunSong-L&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KunSong-L&show_icons=true&theme=tokyonight)  
 
-
+## Publication
+[Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR](https://www.researchgate.net/publication/340495603_Preliminary_Assessment_of_the_COVID-19_Outbreak_Using_3-Staged_Model_e-ISHR)
 ## 🌎 Find me
 - email:<a href="mailto:coldtea@sjtu.edu.cn">coldtea@sjtu.edu.cn"</a>:e-mail:
 ## 🚀 Blog Posts
