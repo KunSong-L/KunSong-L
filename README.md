@@ -8,6 +8,10 @@ I am a master's student now in SJTU!
 Here are some ideas to get you started:
 -->
 
+
+## Publication
+[Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR](https://www.researchgate.net/publication/340495603_Preliminary_Assessment_of_the_COVID-19_Outbreak_Using_3-Staged_Model_e-ISHR)
+
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
@@ -27,8 +31,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KunSong-L&theme=cobalt2&show_icons=true&card_width=495px)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=KunSong-L&show_icons=true&theme=tokyonight)  
 
-## Publication
-[Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR](https://www.researchgate.net/publication/340495603_Preliminary_Assessment_of_the_COVID-19_Outbreak_Using_3-Staged_Model_e-ISHR)
 ## 🌎 Find me
 - email:<a href="mailto:coldtea@sjtu.edu.cn">coldtea@sjtu.edu.cn"</a>:e-mail:
 ## 🚀 Blog Posts
