@@ -1,18 +1,16 @@
 ### Hi I'm Kun Song 👋
 
 I am a master's student now in SJTU!
+I'm now working on Robot Exploration and Navigation,I'm also interesting in Computer Vision, Robot Control and Robot Perception.
 
 <!--
 **KunSong-L/KunSong-L** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 -->
-
 
 ## Publication
 [Preliminary Assessment of the COVID-19 Outbreak Using 3-Staged Model e-ISHR](https://www.researchgate.net/publication/340495603_Preliminary_Assessment_of_the_COVID-19_Outbreak_Using_3-Staged_Model_e-ISHR)
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
 ## ⚡ Platforms
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
