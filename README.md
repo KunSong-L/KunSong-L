@@ -5,8 +5,8 @@ I am a master's student now in **SJTU** 🐸!
 My research interest inculde
 - **SLAM System**: LiDAR based SLAM, Visual SLAM, Place Recoginition, Tological Mapping
 - **Robot Exploration**: Single/Multi Robot Exploration. Next Best View, TSP/VRP Problem
-- **Navigation or Path Planning**: Path Seaching, A*, Motion Planning for Mobile Manipulator
-- **Robot Manipulator**: Mobile Manipulator, Flipping Manipulation.
+- **Navigation and Path Planning**: Path Searching, A*, Motion Planning for Mobile Manipulator
+- **Multi-Robot Manipulation**: Multiple Mobile Manipulator, Cooperative Manipulation.
 
 I'm also interesting in Computer Vision, Robot Control, Deep Learning and Reinforcement Learning.
 
